@@ -1,0 +1,6 @@
+This is color palet for the app
+
+#000000 black
+#8E1616 red
+#E8C999 cream
+#F8EEDF pink
