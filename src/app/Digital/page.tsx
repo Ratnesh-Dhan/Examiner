@@ -1,9 +1,12 @@
-import React from 'react'
+import React from "react";
+import TestBox from "../components/TestBox";
 
 const Digital = () => {
   return (
-    <div>Digital</div>
-  )
-}
+    <div>
+      <TestBox />
+    </div>
+  );
+};
 
-export default Digital
+export default Digital;
